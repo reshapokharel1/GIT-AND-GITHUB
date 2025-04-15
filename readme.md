@@ -1,1 +1,1 @@
-## This is my firdt githib project
+## This is my first githib project
